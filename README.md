@@ -14,7 +14,7 @@
 
 ## Neural Network Model
 
-![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/287ff64c-ad39-4d7f-bc9d-d27e0897258a)
+![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/4b81f952-bf11-4e78-b7f8-a1b79090ed09)
 
 
 ## DESIGN STEPS
